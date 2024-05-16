@@ -5,7 +5,6 @@ const NotFound = () => {
   return (
     <>
       <NotFoundBlock />
-      <p>Иди в пизду</p>
     </>
   );
 };
